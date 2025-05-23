@@ -1,0 +1,51 @@
+ORDER_ID,CUSTOMER_NAME,PRODUCT_NAME,QUANTITY,PRICE,ORDER_DATE
+1001,,Mouse,1,150.00,01-18-2024
+1002,,Mouse,3,200.00,01-14-2024
+1003,,Mouse,2,950.00,01/21/2024
+1004,Brent,Keyboard,-1,25.50,01-19-2024
+1005,Heather Cisneros,Tablet,-1,999.99,01-16-2024
+1006,,Mouse,-2,950.00,27/01/2024
+1007,Jay Bonilla,Monitor,2,75.00,04/01/2024
+1008,,Laptop,-1,200.00,15/01/2024
+1009,Anthony,Laptop,3,300.00,29/01/2024
+1010,Lisa Robertson,Keyboard,3,-150.00,04/01/2024
+1011,Kimberly,Tablet,1,300.00,01/27/2024
+1012,Ian,Mouse,2,-150.00,01/01/2024
+1013,,Mouse,-1,75.00,01-24-2024
+1014,Monica,Mouse,3,75.00,01/14/2024
+1015,,Mouse,1,75.00,01-24-2024
+1016,Matthew,Mouse,1,150.00,21/01/2024
+1017,,Keyboard,2,75.00,01-29-2024
+1018,Jeremiah,Tablet,2,300.00,19/01/2024
+1019,,Mouse,-1,25.50,01-14-2024
+1020,Amanda Scott,Tablet,-1,950.00,21/01/2024
+1021,Adam Olsen,Keyboard,-1,75.00,01-01-2024
+1022,Tracie,Monitor,3,950.00,20/01/2024
+1023,,Monitor,-1,200.00,30/01/2024
+1024,Bobby,Monitor,2,25.50,01-26-2024
+1025,David King,Mouse,2,25.50,01/03/2024
+1026,,Mouse,1,300.00,01-20-2024
+1027,Amy Graves,Mouse,-1,25.50,30/01/2024
+1028,Samuel,Keyboard,-1,75.00,05/01/2024
+1029,James,Mouse,1,950.00,01/23/2024
+1030,,Mouse,3,-150.00,01-08-2024
+1031,,Laptop,-1,25.50,01/30/2024
+1032,Gregory Griffin,Monitor,-1,-150.00,06/01/2024
+1033,Shannon,Mouse,-2,-150.00,01-18-2024
+1034,Thomas,Keyboard,-2,25.50,01/17/2024
+1035,Amber,Mouse,1,25.50,01/04/2024
+1036,Justin,Tablet,1,200.00,01/16/2024
+1037,,Laptop,-1,200.00,01/14/2024
+1038,Michael,Mouse,-2,200.00,01/11/2024
+1039,,Monitor,2,999.99,03/01/2024
+1040,Micheal Perez,Keyboard,1,999.99,12/01/2024
+1041,Alexander Foster,Mouse,2,999.99,01/02/2024
+1042,,Tablet,3,300.00,01/09/2024
+1043,,Mouse,3,950.00,01-07-2024
+1044,Sherry,Monitor,1,999.99,13/01/2024
+1045,,Mouse,3,25.50,01-09-2024
+1046,Johnny Martinez,Mouse,-1,999.99,01/04/2024
+1047,Jessica Jefferson,Mouse,2,150.00,01/17/2024
+1048,,Laptop,-1,25.50,01-08-2024
+1049,Charles,Tablet,-2,25.50,01/01/2024
+1050,Tiffany Walters,Mouse,-1,150.00,30/01/2024
