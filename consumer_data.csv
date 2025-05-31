@@ -1,0 +1,201 @@
+CUSTOMER_ID,AGE,GENDER,CITY,STATE,COUNTRY,PRODUCT_CATEGORY,PURCHASE_DATE
+1,57,Non-binary,San Jose,CA,United States,Electronics,2024-07-13
+2,18,Female,Springfield,IL,United States,Home & Kitchen,2024-11-11
+3,58,Male,Rochester,NY,United States,Home & Kitchen,2025-02-28
+4,53,Prefer not to say,Allentown,PA,United States,Groceries,2024-07-11
+5,48,Female,New York,NY,United States,Groceries,2025-03-22
+6,30,Non-binary,New York,NY,United States,Beauty,2025-02-18
+7,65,Male,Toledo,OH,United States,Toys,2024-08-01
+8,39,Non-binary,New York,NY,United States,Clothing,2024-07-04
+9,59,Male,Columbus,OH,United States,Groceries,2024-08-27
+10,40,Prefer not to say,Albany,NY,United States,Books,2025-05-20
+11,40,Prefer not to say,Cincinnati,OH,United States,Home & Kitchen,2025-02-18
+12,52,Non-binary,Orlando,FL,United States,Books,2024-06-25
+13,43,Prefer not to say,Tucson,AZ,United States,Toys,2025-04-11
+14,32,Male,San Jose,CA,United States,Toys,2025-01-27
+15,46,Female,Tampa,FL,United States,Sports & Outdoors,2024-12-24
+16,42,Female,Tucson,AZ,United States,Clothing,2024-11-29
+17,19,Male,Austin,TX,United States,Home & Kitchen,2025-03-05
+18,37,Non-binary,Scottsdale,AZ,United States,Clothing,2025-04-12
+19,48,Non-binary,Tucson,AZ,United States,Electronics,2024-12-08
+20,28,Male,Mesa,AZ,United States,Clothing,2024-10-15
+21,41,Male,Mesa,AZ,United States,Sports & Outdoors,2024-08-04
+22,29,Prefer not to say,Rochester,NY,United States,Books,2025-02-20
+23,32,Prefer not to say,San Diego,CA,United States,Clothing,2024-10-05
+24,43,Female,Toledo,OH,United States,Clothing,2024-09-30
+25,46,Male,Scottsdale,AZ,United States,Home & Kitchen,2024-10-04
+26,43,Male,Erie,PA,United States,Beauty,2024-11-17
+27,59,Male,Phoenix,AZ,United States,Books,2024-06-08
+28,26,Non-binary,San Diego,CA,United States,Sports & Outdoors,2024-10-21
+29,59,Male,San Diego,CA,United States,Sports & Outdoors,2025-02-06
+30,51,Non-binary,Toledo,OH,United States,Home & Kitchen,2025-04-18
+31,60,Prefer not to say,Miami,FL,United States,Home & Kitchen,2024-10-03
+32,53,Female,Dallas,TX,United States,Electronics,2025-01-02
+33,21,Non-binary,San Francisco,CA,United States,Beauty,2024-08-18
+34,62,Female,San Diego,CA,United States,Groceries,2024-06-03
+35,20,Female,Allentown,PA,United States,Home & Kitchen,2024-11-17
+36,46,Female,Philadelphia,PA,United States,Home & Kitchen,2024-09-26
+37,47,Male,Tucson,AZ,United States,Electronics,2024-08-27
+38,36,Prefer not to say,Dallas,TX,United States,Sports & Outdoors,2024-06-30
+39,58,Male,Scottsdale,AZ,United States,Books,2024-10-28
+40,20,Female,San Jose,CA,United States,Books,2025-04-12
+41,55,Male,Allentown,PA,United States,Beauty,2024-11-21
+42,54,Male,Columbus,OH,United States,Clothing,2025-05-19
+43,21,Non-binary,Cleveland,OH,United States,Sports & Outdoors,2024-08-20
+44,39,Female,Jacksonville,FL,United States,Beauty,2024-12-03
+45,25,Male,Toledo,OH,United States,Sports & Outdoors,2024-08-13
+46,52,Prefer not to say,Mesa,AZ,United States,Groceries,2025-05-17
+47,29,Female,Erie,PA,United States,Groceries,2024-10-04
+48,22,Non-binary,Austin,TX,United States,Groceries,2024-09-03
+49,51,Male,Buffalo,NY,United States,Books,2024-07-09
+50,49,Female,Miami,FL,United States,Clothing,2024-09-17
+51,65,Male,Columbus,OH,United States,Sports & Outdoors,2024-06-09
+52,53,Male,Tucson,AZ,United States,Clothing,2024-10-08
+53,54,Female,San Francisco,CA,United States,Books,2024-10-29
+54,33,Male,Erie,PA,United States,Books,2024-11-26
+55,50,Prefer not to say,Miami,FL,United States,Groceries,2025-02-21
+56,48,Female,Toledo,OH,United States,Electronics,2025-05-07
+57,52,Prefer not to say,Tampa,FL,United States,Beauty,2025-04-27
+58,50,Female,Chicago,IL,United States,Sports & Outdoors,2024-06-12
+59,60,Prefer not to say,Cincinnati,OH,United States,Sports & Outdoors,2024-07-10
+60,22,Female,Peoria,IL,United States,Electronics,2024-07-29
+61,44,Female,Los Angeles,CA,United States,Electronics,2025-02-20
+62,19,Prefer not to say,Springfield,IL,United States,Beauty,2025-02-16
+63,58,Non-binary,Miami,FL,United States,Groceries,2024-09-01
+64,47,Prefer not to say,Tucson,AZ,United States,Home & Kitchen,2024-11-21
+65,63,Male,Phoenix,AZ,United States,Clothing,2025-04-19
+66,20,Female,San Antonio,TX,United States,Electronics,2025-05-01
+67,26,Non-binary,Pittsburgh,PA,United States,Groceries,2024-08-31
+68,33,Male,Cincinnati,OH,United States,Home & Kitchen,2025-05-28
+69,47,Non-binary,San Diego,CA,United States,Beauty,2024-10-23
+70,21,Non-binary,Dallas,TX,United States,Beauty,2025-03-07
+71,21,Non-binary,Miami,FL,United States,Sports & Outdoors,2025-05-08
+72,47,Male,Dallas,TX,United States,Beauty,2025-04-20
+73,43,Female,Albany,NY,United States,Books,2025-04-25
+74,52,Prefer not to say,Toledo,OH,United States,Home & Kitchen,2024-12-04
+75,24,Non-binary,Philadelphia,PA,United States,Home & Kitchen,2025-03-18
+76,52,Non-binary,Philadelphia,PA,United States,Electronics,2025-03-04
+77,20,Prefer not to say,San Francisco,CA,United States,Books,2024-10-18
+78,21,Non-binary,Albany,NY,United States,Clothing,2024-06-11
+79,57,Non-binary,San Jose,CA,United States,Home & Kitchen,2024-10-13
+80,63,Non-binary,Orlando,FL,United States,Home & Kitchen,2024-09-23
+81,39,Prefer not to say,San Antonio,TX,United States,Beauty,2024-06-23
+82,57,Non-binary,Miami,FL,United States,Books,2024-07-26
+83,60,Non-binary,Rochester,NY,United States,Books,2024-10-18
+84,54,Prefer not to say,Scottsdale,AZ,United States,Sports & Outdoors,2024-11-10
+85,52,Prefer not to say,Tucson,AZ,United States,Toys,2024-09-07
+86,47,Non-binary,San Antonio,TX,United States,Sports & Outdoors,2024-06-12
+87,33,Male,Springfield,IL,United States,Clothing,2024-10-28
+88,22,Non-binary,Rochester,NY,United States,Toys,2024-07-05
+89,25,Non-binary,San Antonio,TX,United States,Toys,2024-11-24
+90,46,Non-binary,Pittsburgh,PA,United States,Beauty,2025-03-17
+91,35,Male,San Diego,CA,United States,Beauty,2024-12-06
+92,19,Non-binary,Columbus,OH,United States,Books,2025-05-12
+93,47,Female,Allentown,PA,United States,Sports & Outdoors,2025-05-15
+94,58,Male,San Jose,CA,United States,Home & Kitchen,2024-10-05
+95,50,Female,Toledo,OH,United States,Books,2024-08-13
+96,57,Female,Erie,PA,United States,Books,2024-12-27
+97,39,Male,San Antonio,TX,United States,Sports & Outdoors,2024-08-07
+98,33,Prefer not to say,New York,NY,United States,Books,2024-07-15
+99,21,Female,Scottsdale,AZ,United States,Home & Kitchen,2024-07-31
+100,58,Prefer not to say,San Francisco,CA,United States,Home & Kitchen,2024-11-21
+101,40,Prefer not to say,Chicago,IL,United States,Books,2025-03-16
+102,55,Male,Albany,NY,United States,Home & Kitchen,2024-11-11
+103,39,Male,Cincinnati,OH,United States,Groceries,2025-05-09
+104,44,Male,Cleveland,OH,United States,Sports & Outdoors,2024-12-20
+105,20,Non-binary,Cleveland,OH,United States,Clothing,2025-02-23
+106,44,Female,New York,NY,United States,Sports & Outdoors,2024-11-17
+107,47,Non-binary,Austin,TX,United States,Clothing,2025-03-10
+108,48,Male,Orlando,FL,United States,Books,2025-04-08
+109,33,Male,Chicago,IL,United States,Toys,2024-07-29
+110,34,Prefer not to say,Scottsdale,AZ,United States,Clothing,2025-05-13
+111,33,Female,San Jose,CA,United States,Groceries,2024-08-27
+112,41,Non-binary,Albany,NY,United States,Books,2025-05-26
+113,49,Female,Scottsdale,AZ,United States,Toys,2025-03-22
+114,18,Female,Pittsburgh,PA,United States,Home & Kitchen,2024-12-29
+115,65,Non-binary,Phoenix,AZ,United States,Groceries,2024-09-26
+116,44,Prefer not to say,Austin,TX,United States,Books,2024-09-21
+117,57,Female,Austin,TX,United States,Electronics,2025-01-07
+118,22,Prefer not to say,New York,NY,United States,Clothing,2024-09-19
+119,58,Non-binary,Austin,TX,United States,Beauty,2024-09-16
+120,30,Prefer not to say,Cincinnati,OH,United States,Groceries,2024-11-30
+121,41,Non-binary,New York,NY,United States,Clothing,2025-03-18
+122,38,Male,Toledo,OH,United States,Clothing,2024-12-24
+123,33,Female,Erie,PA,United States,Books,2025-05-04
+124,51,Prefer not to say,Peoria,IL,United States,Home & Kitchen,2024-09-26
+125,62,Female,Dallas,TX,United States,Sports & Outdoors,2024-09-06
+126,38,Prefer not to say,Tucson,AZ,United States,Clothing,2024-12-24
+127,23,Prefer not to say,Allentown,PA,United States,Sports & Outdoors,2025-05-19
+128,52,Male,Phoenix,AZ,United States,Groceries,2025-04-11
+129,62,Male,Naperville,IL,United States,Groceries,2025-01-06
+130,34,Female,Los Angeles,CA,United States,Beauty,2024-07-06
+131,61,Prefer not to say,Erie,PA,United States,Toys,2024-06-27
+132,27,Male,Miami,FL,United States,Groceries,2024-12-05
+133,43,Non-binary,Albany,NY,United States,Home & Kitchen,2024-10-24
+134,39,Female,Chicago,IL,United States,Electronics,2025-01-05
+135,60,Female,Naperville,IL,United States,Electronics,2024-06-17
+136,45,Male,San Antonio,TX,United States,Clothing,2024-08-14
+137,41,Prefer not to say,San Jose,CA,United States,Clothing,2024-07-18
+138,28,Non-binary,San Antonio,TX,United States,Books,2025-01-07
+139,47,Male,Tampa,FL,United States,Beauty,2024-09-25
+140,64,Female,Tampa,FL,United States,Electronics,2024-10-28
+141,39,Prefer not to say,Houston,TX,United States,Clothing,2024-07-28
+142,25,Male,New York,NY,United States,Groceries,2024-07-04
+143,44,Non-binary,Peoria,IL,United States,Home & Kitchen,2024-10-28
+144,33,Male,Dallas,TX,United States,Books,2024-10-13
+145,37,Female,Toledo,OH,United States,Electronics,2025-02-20
+146,59,Male,Philadelphia,PA,United States,Clothing,2025-01-12
+147,57,Non-binary,Dallas,TX,United States,Groceries,2024-09-06
+148,60,Female,Tampa,FL,United States,Clothing,2025-04-25
+149,40,Female,Toledo,OH,United States,Groceries,2024-07-01
+150,18,Female,Philadelphia,PA,United States,Toys,2025-04-06
+151,61,Prefer not to say,Austin,TX,United States,Books,2024-08-24
+152,46,Prefer not to say,Cleveland,OH,United States,Clothing,2024-12-20
+153,65,Male,Los Angeles,CA,United States,Groceries,2025-01-16
+154,39,Non-binary,San Jose,CA,United States,Groceries,2024-07-21
+155,27,Female,San Jose,CA,United States,Sports & Outdoors,2025-03-13
+156,23,Prefer not to say,Buffalo,NY,United States,Beauty,2025-02-26
+157,60,Male,New York,NY,United States,Groceries,2024-08-15
+158,29,Prefer not to say,Albany,NY,United States,Electronics,2024-06-23
+159,47,Female,Los Angeles,CA,United States,Books,2025-02-06
+160,34,Male,Houston,TX,United States,Home & Kitchen,2025-01-13
+161,36,Female,San Diego,CA,United States,Electronics,2024-08-06
+162,24,Male,Rochester,NY,United States,Sports & Outdoors,2025-04-27
+163,61,Female,Orlando,FL,United States,Beauty,2024-11-16
+164,18,Non-binary,Austin,TX,United States,Clothing,2024-06-20
+165,28,Non-binary,Tampa,FL,United States,Beauty,2024-07-11
+166,58,Non-binary,Buffalo,NY,United States,Electronics,2025-04-10
+167,43,Female,Springfield,IL,United States,Groceries,2024-08-20
+168,64,Male,Columbus,OH,United States,Electronics,2024-10-16
+169,65,Non-binary,Albany,NY,United States,Electronics,2025-02-17
+170,41,Female,Dallas,TX,United States,Sports & Outdoors,2025-02-12
+171,54,Male,Cincinnati,OH,United States,Toys,2024-12-02
+172,44,Male,Cincinnati,OH,United States,Beauty,2024-09-07
+173,34,Female,Buffalo,NY,United States,Beauty,2025-02-13
+174,46,Prefer not to say,Buffalo,NY,United States,Clothing,2024-10-05
+175,52,Non-binary,Houston,TX,United States,Toys,2024-08-23
+176,58,Non-binary,San Antonio,TX,United States,Home & Kitchen,2025-03-08
+177,18,Non-binary,Austin,TX,United States,Groceries,2025-02-10
+178,20,Prefer not to say,Cleveland,OH,United States,Toys,2024-10-05
+179,59,Male,Toledo,OH,United States,Books,2024-10-26
+180,37,Non-binary,Naperville,IL,United States,Books,2024-07-01
+181,18,Female,Philadelphia,PA,United States,Books,2024-07-28
+182,36,Prefer not to say,Rochester,NY,United States,Clothing,2024-12-01
+183,25,Female,Los Angeles,CA,United States,Home & Kitchen,2025-04-25
+184,50,Male,Cleveland,OH,United States,Books,2024-06-04
+185,42,Male,Jacksonville,FL,United States,Electronics,2024-06-01
+186,31,Female,Mesa,AZ,United States,Books,2025-02-28
+187,47,Prefer not to say,Miami,FL,United States,Groceries,2024-10-25
+188,56,Prefer not to say,Scottsdale,AZ,United States,Sports & Outdoors,2025-05-19
+189,55,Female,Columbus,OH,United States,Groceries,2024-09-13
+190,35,Female,Orlando,FL,United States,Books,2024-08-11
+191,47,Male,Cincinnati,OH,United States,Home & Kitchen,2024-09-29
+192,65,Prefer not to say,Mesa,AZ,United States,Sports & Outdoors,2025-01-17
+193,58,Prefer not to say,Scottsdale,AZ,United States,Beauty,2024-12-21
+194,61,Female,San Diego,CA,United States,Clothing,2024-07-27
+195,52,Male,Peoria,IL,United States,Books,2024-05-31
+196,19,Female,Tampa,FL,United States,Home & Kitchen,2024-06-17
+197,42,Female,San Francisco,CA,United States,Books,2025-04-24
+198,65,Female,Columbus,OH,United States,Clothing,2024-11-21
+199,26,Prefer not to say,Springfield,IL,United States,Toys,2025-02-03
+200,48,Male,Dallas,TX,United States,Toys,2024-12-20
